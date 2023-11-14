@@ -148,17 +148,17 @@ html,body{
     border-radius: 100px;
 }
 #onespan{
-    background-image: url(./img/bluegirl\ \(1\).jpg);
+    background-image: url(./bluegirl\ \(1\).jpg);
     background-position: 0 60%;
     background-size: cover;
 }
 #twospan{
-    background-image: url(./img/shaljam.jpg);
+    background-image: url(./shaljam.jpg);
     background-position: 0 80%;
     background-size: cover;
 }
 #threespan{
-    background-image: url(./img/grass.jpg);
+    background-image: url(./grass.jpg);
     background-position: center;
     background-size: cover;
 }
